@@ -1,6 +1,4 @@
 # tariffWatch
-Constantly watches President Donald Trump's twitter to watch for him announcing tarriffs!
-
 Tired of losing half your portfoilo because Donald Trump is crashing the stock market while his friends make money? 
 
 Then TarriffWatch is perfect for you! Beat the market by being the first to know when the market is being manipulated by the felon in the white house!
